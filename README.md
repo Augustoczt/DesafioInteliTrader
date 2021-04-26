@@ -1,0 +1,2 @@
+# DesafioInteliTrader
+Desafio InteliTrader
